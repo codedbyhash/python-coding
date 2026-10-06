@@ -1,0 +1,4 @@
+# Dependencies for content/data_science/scipy_interpolation.py
+numpy
+scipy
+matplotlib
