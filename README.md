@@ -17,16 +17,3 @@ My Python learning record: concept examples, programming exercises, and small ex
 | Classes and objects | [oop](content/oop/) |
 | Scientific Python | [data_science](content/data_science/) |
 
-## Daily workflow
-
-1. Save new examples in the matching topic folder.
-2. Use lowercase filenames with underscores and descriptive exercise names.
-3. Record progress with a meaningful commit:
-
-```bash
-git add .
-git commit -m "Practise Python list comprehensions"
-git push
-```
-
-Before starting work, pull updates made on GitHub into the local checkout.
